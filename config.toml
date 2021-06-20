@@ -1,4 +1,4 @@
-baseURL = "https://yuvaraj0615.github.io/hugotest.github.io"
+baseURL = "https://yuvaraj0615.github.io/hugo.github.io/"
 languageCode = "en-us"
 title = "Yuvaraj New Hugo Site"
 theme = "ananke"
